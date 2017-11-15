@@ -1,0 +1,2 @@
+# sycBlog
+my blog project
